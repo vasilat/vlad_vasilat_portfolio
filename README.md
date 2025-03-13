@@ -1,6 +1,6 @@
 # vlad_vasilat_portfolio
 
-# [Vlad_Vasilat] - Data Science Portfolio
+# Vlad_Vasilat - Data Science Portfolio
 
 Привет! Меня зовут Vlad , и я Data Scientist.  В этом репозитории собраны мои проекты, демонстрирующие мои навыки в области машинного обучения, анализа данных и визуализации.
 
