@@ -1,4 +1,3 @@
-# vlad_vasilat_portfolio
 
 # Vlad_Vasilat - Data Science Portfolio
 
