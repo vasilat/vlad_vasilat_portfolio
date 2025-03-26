@@ -77,5 +77,5 @@
 *   Matplotlib
 *   Seaborn
 
-## Структура проекта
+
 
